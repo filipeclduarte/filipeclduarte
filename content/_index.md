@@ -74,7 +74,7 @@ sections:
 
               * Taught actuarial sciences, machine learning and predictive modeling
               * Researching
-              * Leading a time series data science group that develops solutions for society
+              * Leading a time series forecasting data science group that develops solutions for society
         # - title: Professor of Semiconductor Physics
         #   company: University X
         #   company_url: ''
