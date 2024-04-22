@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor and Researcher of Artificial Intelligence
+role: Professor and Researcher of Artificial Intelligence and actuarial sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,6 +32,8 @@ interests:
   - Artificial Intelligence
   - Machine Learning
   - Time series forecasting
+  - Actuarial sciences
+  - Finance
 
 # Education to show in About widget
 education:
@@ -59,8 +61,8 @@ skills:
       - name: R
         description: ''
         percent: 100
-        icon: R
-        icon_pack: fab
+        icon: rstudio
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
@@ -80,15 +82,20 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
         icon_pack: fas
-      - name: Photography
+      - name: Music
+        description: ''
+        percent: 50
+        icon: guitar
+        icon_pack: fas
+      - name: Reading
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: book-text
         icon_pack: fas
 
 # Social/Academic Networking
@@ -101,7 +108,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/filipeclduarte
     label: Follow me on Twitter
     display:
       header: true
@@ -110,7 +117,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/filipeclduarte
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -125,5 +132,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Filipe C L Duarte is a professor and researcher of artificial intelligence and actuarial sciences at Universidade Federal da Paraíba. His research interests span artificial intelligence, machine learning, time series forecasting, actuarial sciences, and finance. He heads the forecasting data science group, which develops cutting-edge artificial intelligence systems for time series forecasting. Their approach combines statistical methods and machine learning techniques through a hybrid systems framework, enabling them to tackle complex problems in many fields, including actuarial sciences and finance with unparalleled accuracy and efficiency.
 {style="text-align: justify;"}
