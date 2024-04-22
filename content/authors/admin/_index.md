@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Filipe C L Duarte
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Filipe
+last_name: Coelho de Lima Duarte
 
 # Status emoji
 status:
@@ -17,23 +17,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Professor and Reseacher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Universidade Federal da Paraíba
+    url: https://www.ufpb.br/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:filipe_pb_duarte@hotmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/filipeclduarte
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/filipeclduarte
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
@@ -41,18 +41,18 @@ profiles:
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Universidade Federal de Pernambuco
+    date_start: 2020-01-10
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Hybrid Systems for Multi-step Mortality Rate Forecasting. Supervised by [Prof Paulo S G de Mattos Neto](https://ai.cin.ufpe.br/staff_members/psgmn.html). Publish papers in X Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Msc Accounting
+    institution: UFPB
+    date_start: 2015-03-01
+    date_end: 2016-12-17
     summary: |
       GPA: 3.8/4.0
 
@@ -60,10 +60,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Actuarial Sciences
+    institution: UFPB
+    date_start: 2011-04-01
+    date_end: 2015-02-01
     summary: |
       GPA: 3.4/4.0
       
@@ -72,11 +72,11 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Researcher and Professor
+    company_name: Universidade Federal da Paraíba
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2017-02-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -102,15 +102,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: devicon/python
       - name: RStudio
         description: ''
-        percent: 100
+        percent: 90
         icon: devicon/rstudio
       - name: PyTorch
         description: ''
-        percent: 40
+        percent: 50
         icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
@@ -120,7 +120,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
         icon: cat
@@ -131,11 +131,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
   - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -169,4 +167,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently Professor and Researcher at Universidade Federal da Paraíba where I am teaching in Actuarial Sciences courses and doing researching in artificial intelligence and time series forecasting.
