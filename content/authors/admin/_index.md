@@ -95,7 +95,7 @@ skills:
       - name: Reading
         description: ''
         percent: 80
-        icon: book-text
+        icon: book
         icon_pack: fas
 
 # Social/Academic Networking
